@@ -1,0 +1,35 @@
+START
+Which one of these words is not a python keyword?
+print
+var
+let
+self
+let
+
+Which line will result in an error?
+print('x'y)
+print('x',y)
+print('x'+y)
+print(x)
+print('x'y)
+
+Which way of initializing a list will result in an error?
+mylist=[]
+mylist=[1,2,3]
+mylist=[0]*5
+mylist=List(5)
+mylist=List(5)
+
+Having a function call itself repeatedly to solve a problem is called?
+Iteration
+Functional Programming
+Recursion
+Big Brain Programming
+Recursion
+
+What does x equal at the end of this statement: x=3+4**3?
+Error
+67
+343
+15
+67
